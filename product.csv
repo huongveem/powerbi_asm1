@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price
+1,Smartphone,Electronics,499.99
+2,Laptop,Electronics,899.99
+3,Headphones,Electronics,99.99
+4,Tablet,Electronics,299.99
+5,Smartwatch,Electronics,199.99
+6,TV,Electronics,799.99
+7,Blender,Appliances,49.99
+8,Coffee Maker,Appliances,129.99
+9,Toaster,Appliances,34.99
+10,Microwave,Appliances,149.99
+11,Refrigerator,Appliances,799.99
+12,Vacuum Cleaner,Appliances,79.99
+13,Washing Machine,Appliances,499.99
+14,Dishwasher,Appliances,399.99
+15,Power Drill,Tools,59.99
+16,Toolbox,Tools,29.99
+17,Lawn Mower,Tools,149.99
+18,Paint Set,Tools,19.99
+19,Screwdriver Set,Tools,9.99
+20,Hand Saw,Tools,14.99
+21,Bicycle,Sports & Outdoors,199.99
+22,Tent,Sports & Outdoors,79.99
+23,Camping Stove,Sports & Outdoors,49.99
+24,Fishing Rod,Sports & Outdoors,39.99
+25,Backpack,Sports & Outdoors,29.99
+26,Running Shoes,Fashion,79.99
+27,Sunglasses,Fashion,49.99
+28,Watch,Fashion,129.99
+29,Handbag,Fashion,89.99
+30,Hat,Fashion,19.99
+31,Necklace,Fashion,39.99
+32,Bedding,Home & Living,79.99
+33,Towel Set,Home & Living,29.99
+34,Throw Pillow,Home & Living,14.99
+35,Blanket,Home & Living,49.99
+36,Cookware Set,Kitchen & Dining,149.99
+37,Dinnerware Set,Kitchen & Dining,89.99
+38,Cutlery Set,Kitchen & Dining,39.99
+39,Glassware Set,Kitchen & Dining,24.99
+40,Coffee Mug Set,Kitchen & Dining,14.99
+41,Bookshelf,Home Furniture,129.99
+42,Sofa,Home Furniture,499.99
+43,Coffee Table,Home Furniture,89.99
+44,Bed,Home Furniture,299.99
+45,Dining Table,Home Furniture,199.99
+46,Desk,Office Furniture,149.99
+47,Office Chair,Office Furniture,79.99
+48,Filing Cabinet,Office Furniture,69.99
+49,Desk Lamp,Office Furniture,29.99
+50,Printer,Office Electronics,199.99
+51,Scanner,Office Electronics,99.99
+52,Computer Monitor,Office Electronics,149.99
+53,Keyboard & Mouse Set,Office Electronics,39.99
+54,Laptop Bag,Office Accessories,24.99
+55,Desk Organizer,Office Accessories,14.99
+56,Plant,Home Decor,19.99
+57,Wall Art,Home Decor,29.99
+58,Candle Holder,Home Decor,9.99
+59,Mirror,Home Decor,39.99
+60,Rug,Home Decor,49.99
+61,Outdoor Umbrella,Outdoor Living,69.99
+62,Patio Furniture Set,Outdoor Living,399.99
+63,Grill,Outdoor Living,149.99
+64,Garden Hose,Outdoor Living,19.99
+65,Fire Pit,Outdoor Living,129.99
+66,Pool Float,Pool & Spa,14.99
+67,Towel,Pool & Spa,9.99
+68,Sunscreen,Health & Beauty,7.99
+69,Shampoo & Conditioner Set,Health & Beauty,12.99
+70,Toothbrush,Health & Beauty,3.99
+71,Lip Balm,Health & Beauty,2.99
+72,Body Lotion,Health & Beauty,8.99
+73,Face Mask,Health & Beauty,4.99
+74,Hand Sanitizer,Health & Beauty,1.99
+75,Air Purifier,Home Appliances,199.99
+76,Hair Dryer,Personal Care,49.99
+77,Electric Toothbrush,Personal Care,29.99
+78,Weight Scale,Health & Fitness,19.99
+79,Yoga Mat,Health & Fitness,14.99
+80,Dumbbell Set,Health & Fitness,49.99
+81,Bike Trainer,Health & Fitness,89.99
+82,Treadmill,Health & Fitness,499.99
+83,Resistance Bands,Health & Fitness,9.99
+84,Kettlebell,Health & Fitness,14.99
+85,Bluetooth Speaker,Audio,79.99
+86,Wireless Earbuds,Audio,49.99
+87,Soundbar,Audio,129.99
+88,Record Player,Audio,149.99
+89,Portable Charger,Accessories,19.99
+90,Phone Case,Accessories,9.99
+91,Backpack,Accessories,34.99
+92,Travel Mug,Accessories,14.99
+93,Sports Water Bottle,Accessories,7.99
+94,Laptop Stand,Accessories,19.99
+95,USB-C Cable,Accessories,9.99
+96,Wireless Mouse,Accessories,24.99
+97,External Hard Drive,Storage,79.99
+98,USB Flash Drive,Storage,14.99
+99,SD Card,Storage,9.99
+100,Luggage Set,Travel & Luggage,129.99
